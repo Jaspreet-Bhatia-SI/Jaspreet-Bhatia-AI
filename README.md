@@ -10,15 +10,15 @@
   
   <br /><br />
 
-  <a href="https://linkedin.com/in/jaspreet-bhatia-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/jaspreet-bhatia-si"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bhatiajaspreet161@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Jaspreet-Bhatia-AI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Jaspreet-Bhatia-SI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <br /><br />
 
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Jaspreet-Bhatia-AI&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Profile Views" /></a>
-  <img src="https://img.shields.io/github/followers/Jaspreet-Bhatia-AI?label=Followers&style=flat-square&color=9d4edd" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Jaspreet-Bhatia-AI?label=Stars&style=flat-square&color=c77dff" alt="Stars" />
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Jaspreet-Bhatia-SI&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Profile Views" /></a>
+  <img src="https://img.shields.io/github/followers/Jaspreet-Bhatia-SI?label=Followers&style=flat-square&color=9d4edd" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Jaspreet-Bhatia-SI?label=Stars&style=flat-square&color=c77dff" alt="Stars" />
 </div>
 
 <br />
@@ -30,7 +30,7 @@
 For me, technology isn’t just about writing code—it’s about finding the most effective ways to solve real-world problems. My journey into Data Science and AI began with a curiosity about how raw data can be transformed into intelligent, actionable decisions. Currently pursuing my **B.Tech in CSE (AI/ML) at SBBSU**, I have adopted a strong "build-first" mindset, bringing theoretical concepts to life through robust, scalable applications.
 
 - 🧠 **AI/ML Expertise:** Architecting autonomous machine learning models, developing agentic AI frameworks, Deep Learning, and Generative AI.
-- 🏢 **Founder of JB AI:** Architecting and scaling intelligent, full-stack applications like Curator under my personal studio brand.
+- 🏢 **Founder of JBSI:** Architecting and scaling intelligent, full-stack applications like Curator under my personal studio brand.
 - ⚙️ **Cloud Engineering:** Developing holistic backend solutions, engineering scalable architectures on AWS and Azure.
 - 💻 **Full Stack Development:** Proficient in Python, C++, and Java with a deep focus on crafting end-to-end data-driven web applications.
 - 🚀 **Mindset:** Treating every project as an opportunity to push technical boundaries.
@@ -115,7 +115,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 
   | Stack | Scale | Performance | Security | Impact | Repository |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Python, LangChain, Hugging Face | Multi-doc | Sub-second Retrieval | Local Embeddings | Automated doc analysis | [View Source](https://github.com/Jaspreet-Bhatia-AI/chat-with-pdf-rag-agent) |
+  | Python, LangChain, Hugging Face | Multi-doc | Sub-second Retrieval | Local Embeddings | Automated doc analysis | [View Source](https://github.com/Jaspreet-Bhatia-SI/chat-with-pdf-rag-agent) |
   
   *Architected an AI pipeline using LangChain to chunk, embed, and retrieve data from PDFs. Deployed semantic search capabilities to deliver highly accurate, context-aware responses to user queries.*
 </details>
@@ -127,21 +127,21 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 
   | Stack | Scale | Performance | Security | Impact | Repository |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Python, PyTorch, Streamlit, Cloud | Predictive | Real-time AI | Encrypted pipelines | Enhances crisis response | [View Source](https://github.com/Jaspreet-Bhatia-AI/ResQ-AI) |
+  | Python, PyTorch, Streamlit, Cloud | Predictive | Real-time AI | Encrypted pipelines | Enhances crisis response | [View Source](https://github.com/Jaspreet-Bhatia-SI/ResQ-AI) |
   
   *Engineered predictive models using Deep Learning to forecast incident impact. Built an interactive Streamlit dashboard for real-time monitoring and resource allocation during critical situations.*
 </details>
 
 <details>
-  <summary><b>4. Curator by JB AI</b></summary>
+  <summary><b>4. Curator by JBSI</b></summary>
   <br />
   An autonomous AI-powered media curator, roadmap generator, and intelligent extraction tool.
 
   | Stack | Scale | Performance | Security | Impact | Repository |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-  | React, FastAPI, Groq LLM, Node.js | Automated | Anti-Bot Bypass | Rate Limited | Curated Media | [View Source](https://github.com/Jaspreet-Bhatia-AI/curator-ai) |
+  | React, FastAPI, Groq LLM, Node.js | Automated | Anti-Bot Bypass | Rate Limited | Curated Media | [View Source](https://github.com/Jaspreet-Bhatia-SI/curator-ai) |
   
-  *Architected an agentic AI system under the **JB AI** brand that dynamically generates structured educational roadmaps and curated music playlists based on natural language queries, augmented by real-time internet search (RAG). Engineered a robust Python FastAPI backend and a sleek React frontend with Framer Motion 3D graphics, utilizing localized Node.js environments and FFmpeg to successfully bypass complex anti-bot algorithms for seamless media extraction.*
+  *Architected an agentic AI system under the **JBSI** brand that dynamically generates structured educational roadmaps and curated music playlists based on natural language queries, augmented by real-time internet search (RAG). Engineered a robust Python FastAPI backend and a sleek React frontend with Framer Motion 3D graphics, utilizing localized Node.js environments and FFmpeg to successfully bypass complex anti-bot algorithms for seamless media extraction.*
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -168,7 +168,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 <div align="center">
   
   <a href="https://lnkd.in/p/dScpx-is"><img src="https://img.shields.io/badge/O7_Services-Cloud_Computing-232F3E?style=for-the-badge&logo=cloud&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jaspreet-bhatia-ai/details/certifications/"><img src="https://img.shields.io/badge/O7_Services-Python,_Data_Science,_AI_%26_ML-0072C6?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jaspreet-bhatia-si/details/certifications/"><img src="https://img.shields.io/badge/O7_Services-Python,_Data_Science,_AI_%26_ML-0072C6?style=for-the-badge&logo=python&logoColor=white" /></a>
   
 </div>
 
@@ -178,7 +178,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 
 <div align="center">
 
-  <a href="https://leetcode.com/u/Jaspreet-Bhatia-AI/"><img src="https://img.shields.io/badge/LeetCode-Jaspreet--Bhatia--AI-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Jaspreet-Bhatia-SI/"><img src="https://img.shields.io/badge/LeetCode-Jaspreet--Bhatia--AI-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/profile/jaspreetbhatia04"><img src="https://img.shields.io/badge/GeeksforGeeks-jaspreetbhatia04-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/bhatiajaspreet12"><img src="https://img.shields.io/badge/HackerRank-bhatiajaspreet12-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/jass_bhatia"><img src="https://img.shields.io/badge/CodeChef-jass__bhatia-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
@@ -190,10 +190,10 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Jaspreet-Bhatia-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9d4edd&include_all_commits=true&count_private=true" height="192px" />
-  <img src="https://streak-stats.demolab.com/?user=Jaspreet-Bhatia-AI&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=c77dff&currStreakLabel=c77dff" height="192px" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Jaspreet-Bhatia-SI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9d4edd&include_all_commits=true&count_private=true" height="192px" />
+  <img src="https://streak-stats.demolab.com/?user=Jaspreet-Bhatia-SI&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=c77dff&currStreakLabel=c77dff" height="192px" />
   <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jaspreet-Bhatia-AI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&include_all_commits=true&count_private=true" height="192px" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jaspreet-Bhatia-SI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&include_all_commits=true&count_private=true" height="192px" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -209,7 +209,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jaspreet-Bhatia-AI/Jaspreet-Bhatia-AI/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jaspreet-Bhatia-SI/Jaspreet-Bhatia-SI/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
