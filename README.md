@@ -6,7 +6,7 @@
   <br />
 
   <img src="https://img.shields.io/badge/B.Tech-CSE_(AI/ML)_@_SBBSU-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Location-Global-5A189A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-India-5A189A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   
   <br /><br />
 
@@ -109,6 +109,18 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 </details>
 
 <details>
+  <summary><b>4. Curator by JBSI</b></summary>
+  <br />
+  An autonomous AI-powered media curator, roadmap generator, and intelligent extraction tool.
+
+  | Stack | Scale | Performance | Security | Impact | Repository |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | React, FastAPI, Groq LLM, Node.js | Automated | Anti-Bot Bypass | Rate Limited | Curated Media | [View Source](https://github.com/Jaspreet-Bhatia-SI/curator-ai) |
+  
+  *Architected an agentic AI system under the **JBSI** brand that dynamically generates structured educational roadmaps and curated music playlists based on natural language queries, augmented by real-time internet search (RAG). Engineered a robust Python FastAPI backend and a sleek React frontend with Framer Motion 3D graphics, utilizing localized Node.js environments and FFmpeg to successfully bypass complex anti-bot algorithms for seamless media extraction.*
+</details>
+
+<details>
   <summary><b>2. Chat with PDF (RAG Agent)</b></summary>
   <br />
   An intelligent Retrieval-Augmented Generation (RAG) agent allowing users to converse naturally with PDF documents.
@@ -130,18 +142,6 @@ For me, technology isn’t just about writing code—it’s about finding the mo
   | Python, PyTorch, Streamlit, Cloud | Predictive | Real-time AI | Encrypted pipelines | Enhances crisis response | [View Source](https://github.com/Jaspreet-Bhatia-SI/ResQ-AI) |
   
   *Engineered predictive models using Deep Learning to forecast incident impact. Built an interactive Streamlit dashboard for real-time monitoring and resource allocation during critical situations.*
-</details>
-
-<details>
-  <summary><b>4. Curator by JBSI</b></summary>
-  <br />
-  An autonomous AI-powered media curator, roadmap generator, and intelligent extraction tool.
-
-  | Stack | Scale | Performance | Security | Impact | Repository |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | React, FastAPI, Groq LLM, Node.js | Automated | Anti-Bot Bypass | Rate Limited | Curated Media | [View Source](https://github.com/Jaspreet-Bhatia-SI/curator-ai) |
-  
-  *Architected an agentic AI system under the **JBSI** brand that dynamically generates structured educational roadmaps and curated music playlists based on natural language queries, augmented by real-time internet search (RAG). Engineered a robust Python FastAPI backend and a sleek React frontend with Framer Motion 3D graphics, utilizing localized Node.js environments and FFmpeg to successfully bypass complex anti-bot algorithms for seamless media extraction.*
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -170,19 +170,6 @@ For me, technology isn’t just about writing code—it’s about finding the mo
   <a href="https://lnkd.in/p/dScpx-is"><img src="https://img.shields.io/badge/O7_Services-Cloud_Computing-232F3E?style=for-the-badge&logo=cloud&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jaspreet-bhatia-si/details/certifications/"><img src="https://img.shields.io/badge/O7_Services-Python,_Data_Science,_AI_%26_ML-0072C6?style=for-the-badge&logo=python&logoColor=white" /></a>
   
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## 🎯 Coding Profiles
-
-<div align="center">
-
-  <a href="https://leetcode.com/u/Jaspreet-Bhatia-SI/"><img src="https://img.shields.io/badge/LeetCode-Jaspreet--Bhatia--AI-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/jaspreetbhatia04"><img src="https://img.shields.io/badge/GeeksforGeeks-jaspreetbhatia04-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/bhatiajaspreet12"><img src="https://img.shields.io/badge/HackerRank-bhatiajaspreet12-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/jass_bhatia"><img src="https://img.shields.io/badge/CodeChef-jass__bhatia-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
